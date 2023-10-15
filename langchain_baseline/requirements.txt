@@ -1,0 +1,15 @@
+langchain
+openai
+transformers
+# torch
+# torchvision
+# torchaudio
+numpy
+tensorflow
+pandas
+chromadb
+faiss-cpu
+unstructured
+tiktoken
+rich #for console formatting
+gradio

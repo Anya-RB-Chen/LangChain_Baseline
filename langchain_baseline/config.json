@@ -1,0 +1,21 @@
+{
+    "embedding" : "text-embedding-ada-002",
+    "model" : "gpt-3.5-turbo",
+    "data_dir" : "data",
+    "update_data_dir": "data/update",
+    "logger_dir" : "logs",
+    "db_dir" : "embeddings",
+    "vector_dir": "faiss",
+    "openai_api" : {
+        "url" : "https://api.openai.com/v1/chat/completions",
+        "org_name" : "Ringley",
+        "org_key" : "zv7PrlcMYNGFe9S329oMFQJX",
+        "OPENAI_API_KEY" : "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"
+    },
+    "ringley_api" : {
+        "articles_url" : "https://ringley.co.uk/api/v1/articles",
+        "blogs_url" : "https://ringley.co.uk/api/v1/blogs",
+        "key" : "Authorization",
+        "value" : "Token token=116c7f147d5ba88d799f74d77e6345ce"
+    }
+}

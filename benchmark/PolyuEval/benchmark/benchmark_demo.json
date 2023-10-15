@@ -1,0 +1,1035 @@
+[
+    {
+        "id": "A1-2",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "2",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is Dr Jonathan Sangwook NAN the chair professor of Department of Accounting and Finance?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-3",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "3",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Did Prof. Wong Wing-tak graduate from The University of Hong Kong?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-4",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "4",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Did Prof. Lee Kin-wah, Terence graduate from The University of Hong Kong?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-5",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "5",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is Janet Holmes insterested in pragmatics and corpus linguistics?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-6",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "6",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Did Sung In Kim gain a Ph.D degree?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-7",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "7",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is Prof. CAO Jiannong the Dean of Graduate School?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-8",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "8",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is Prof. CHEN Changwen interested in cloud computing?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-9",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "9",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Did TAN Kay Chen graduated from the Hong Kong Polytechnic University?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-10",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "10",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Did Dr CHAN Chun Bun Henry gain PhD in Engineering?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-11",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "11",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is Scott Chin the teaching fellow of School of Nursing?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-12",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "12",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is Dr Jiang Liming interested in hybrid testing/simulation and artificial intelligence?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-13",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "13",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is Dr You Ruoyu from Department of Building Services Engineering?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-14",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "14",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is Dr. Sau-chung Fu a RAP of dept of BEEE?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-15",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "15",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Did Dr Rickey Lu graduate from The University of Birmingham?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-16",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "16",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is EIE3120 the course of Network Technologies and Security?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-17",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "17",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is ABCT3408 the course of SENSORY EVALUATION OF FOOD?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-18",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "18",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is COMP4423 about cloud computing and networking?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-19",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "19",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is BRE362 offered by dept of marketing management?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-20",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "20",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is COMP4442 about Computer Vision?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-21",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "21",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Does COMP5113 need any pre-requisite to register?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-22",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "22",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Does COMP5152 allow students to get familiar with data analytic frameworks?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-23",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "23",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Does EE525 allow students to understand the key and practical issues of restructuring electricity supply industry and to establish a broad knowledge of open electricity market operation?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-24",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "24",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Can student earn 4 credit values by learning EE5381?",
+        "ground_truth": [
+            "No"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A1-25",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A1",
+        "index": "25",
+        "answer_type": "YesOrNo",
+        "matrix_type": "F1",
+        "question": "Is LGT3206 the course of International Study Tour in Shipping and Logistics?",
+        "ground_truth": [
+            "Yes"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-1",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "1",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What department does Dr Andrew Morrall belong to?",
+        "ground_truth": [
+            "Department of English and Communication"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-2",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "2",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What research areas is Dr YUAN Xin interested in?",
+        "ground_truth": [
+            "motor drives",
+            " motor design",
+            " power electronics"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-3",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "3",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What university did Dr ZHANG Yang-xi gaduate from?",
+        "ground_truth": [
+            "Peking University"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-4",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "4",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What position is Dr CHEUNG Chi-Chung, Lawrence working in dpet of EIE?",
+        "ground_truth": [
+            "teaching fellow"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-5",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "5",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What university did Dr LAI Po-Yan, Pauli gaduate from?",
+        "ground_truth": [
+            "The Chinese University of Hong Kong",
+            " The University of Hong Kong"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-6",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "6",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What is the full name of course apss5017?",
+        "ground_truth": [
+            "Spatial Data Science"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-7",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "7",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What is the full name of course LSGI3802?",
+        "ground_truth": [
+            "Pre-Practicum Orientation"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-8",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "8",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "How many credits does course AMA502 have?",
+        "ground_truth": [
+            "3"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-9",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "9",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What level of difficulty is the course ELC2012?",
+        "ground_truth": [
+            "2"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A2-10",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A2",
+        "index": "10",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What level of difficulty is the course COMP2021?",
+        "ground_truth": [
+            "2"
+        ],
+        "choices": []
+    },
+    {
+        "id": "A3-1",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A3",
+        "index": "1",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What can I learn from APSS5040?",
+        "ground_truth": "You can learn psychological practice in different settings requires professional competencies that address the needs and benefits of the individuals and organizations being served, as well as the community as a whole. A model of Fitness-to-Practice is adopted to prepare students in the profession of psychology. It relies on effective training and supervision to ensure that student performance is competence-based.",
+        "choices": []
+    },
+    {
+        "id": "A3-2",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A3",
+        "index": "2",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What can I learn from EIE4413?",
+        "ground_truth": "This is an essential subject to provide fundamental digital signal processing (DSP) techniques important to many communications and multimedia subjects. Both theory and practical realisation are stressed.",
+        "choices": []
+    },
+    {
+        "id": "A3-3",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A3",
+        "index": "3",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What can I gain after taking MM532?",
+        "ground_truth": "This subject contributes to the achievement of the MBA Outcomes by enabling students to apply concepts from Economics, Organization Theory and Business Strategy, demonstrate critical and creative thinking, solving business problems through integration of concepts.",
+        "choices": []
+    },
+    {
+        "id": "A3-4",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A3",
+        "index": "4",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What can I learn from Statistical Inference?",
+        "ground_truth": "AMA3640, Statistical Inference, is to enable students to understand the theory of statistical inference and apply it to data analysis.",
+        "choices": []
+    },
+    {
+        "id": "A3-5",
+        "cognitive_type": "knowledge_memorization",
+        "category": "A3",
+        "index": "5",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "Can I learn knowledge about survey sampling in course AMA3654?",
+        "ground_truth": "Yes. This subject is to introduce to students the basic concepts and methods of survey sampling, including methods of data collection, sampling design, and the analysis of survey data. Survey sampling is an essential market research tool for data analysts or entrepreneurs to better understand their target market and seek the potential for new business.",
+        "choices": []
+    },
+    {
+        "id": "B1-1",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B1",
+        "index": "1",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "Who has research interest in hotel management?",
+        "ground_truth": [
+            "Dr Edward LAI",
+            " Kaye Chon",
+            " Catherine Cheung",
+            " Ying Wang",
+            " Jaehee Gim",
+            " Kirk Yan"
+        ],
+        "choices": []
+    },
+    {
+        "id": "B1-2",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B1",
+        "index": "2",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "List professors in department of computing who graduated from Cambridge University.",
+        "ground_truth": [
+            "Dr CHAN Chun Bun Henry",
+            " YANG Yu"
+        ],
+        "choices": []
+    },
+    {
+        "id": "B1-3",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B1",
+        "index": "3",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "List professors in department of MM who graduated from UCLA.",
+        "ground_truth": [
+            "Prof. Krishna SAVANI"
+        ],
+        "choices": []
+    },
+    {
+        "id": "B1-4",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B1",
+        "index": "4",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "List some courses offered by COMP with subject level of 6?",
+        "ground_truth": [
+            "COMP6364",
+            " COMP6521"
+        ],
+        "choices": []
+    },
+    {
+        "id": "B1-5",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B1",
+        "index": "5",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What undergraduate courses in ama and comp should I take if I'm interested in data analysis?",
+        "ground_truth": [
+            "ama3640",
+            " ama3654",
+            " ama4602",
+            " comp4433",
+            " comp4434"
+        ],
+        "choices": []
+    },
+    {
+        "id": "B2-1",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B2",
+        "index": "1",
+        "answer_type": "MC",
+        "matrix_type": "F1",
+        "question": " Which of the following courses are offered by AMA with subject level of 5?",
+        "ground_truth": [
+            "A",
+            "C"
+        ],
+        "choices": [
+            {
+                "text": "AMA503",
+                "is_correct": true
+            },
+            {
+                "text": "AMA8992",
+                "is_correct": false
+            },
+            {
+                "text": "AMA523",
+                "is_correct": true
+            },
+            {
+                "text": "APSS5023",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": "B2-2",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B2",
+        "index": "2",
+        "answer_type": "MC",
+        "matrix_type": "F1",
+        "question": "Which of the following courses are not offered by FSN with subject level of 1?",
+        "ground_truth": [
+            "D"
+        ],
+        "choices": [
+            {
+                "text": "FSN1D06",
+                "is_correct": false
+            },
+            {
+                "text": "FSN1D10",
+                "is_correct": false
+            },
+            {
+                "text": "FSN1D05",
+                "is_correct": false
+            },
+            {
+                "text": "FSN0001",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "id": "B2-3",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B2",
+        "index": "3",
+        "answer_type": "MC",
+        "matrix_type": "F1",
+        "question": "Which of the following courses in dept of computing should I take if I'm interested in artificial intelligence?",
+        "ground_truth": [
+            "A",
+            "C",
+            "D"
+        ],
+        "choices": [
+            {
+                "text": "comp4431",
+                "is_correct": true
+            },
+            {
+                "text": "comp2021",
+                "is_correct": false
+            },
+            {
+                "text": "comp1004",
+                "is_correct": true
+            },
+            {
+                "text": "comp6434",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "id": "B2-4",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B2",
+        "index": "4",
+        "answer_type": "MC",
+        "matrix_type": "F1",
+        "question": "Which of the following level 1 courses in dept of ama should I take if I'm interested in statistics?",
+        "ground_truth": [
+            "B"
+        ],
+        "choices": [
+            {
+                "text": "AMA503",
+                "is_correct": false
+            },
+            {
+                "text": "ama1602",
+                "is_correct": true
+            },
+            {
+                "text": "ama1000",
+                "is_correct": false
+            },
+            {
+                "text": "ama1509",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": "B2-5",
+        "cognitive_type": "knowledge_understanding",
+        "category": "B2",
+        "index": "5",
+        "answer_type": "MC",
+        "matrix_type": "F1",
+        "question": "What courses should I take if I want to complete my thesis in dept of APSS?",
+        "ground_truth": [
+            "B",
+            "C",
+            "D"
+        ],
+        "choices": [
+            {
+                "text": "apss6000",
+                "is_correct": false
+            },
+            {
+                "text": "apss6221",
+                "is_correct": true
+            },
+            {
+                "text": "apss6223",
+                "is_correct": true
+            },
+            {
+                "text": "apss6222",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "id": "C1-1",
+        "cognitive_type": "knowledge_applying",
+        "category": "C1",
+        "index": "1",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "Give me some professors who are interested in organic chemistry and biology?",
+        "ground_truth": [
+            "Wong Man-kin",
+            " Tai Chi-shing",
+            " Dr Ma Cong"
+        ],
+        "choices": []
+    },
+    {
+        "id": "C1-2",
+        "cognitive_type": "knowledge_applying",
+        "category": "C1",
+        "index": "2",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What course should I take if I would like to gain an overview knowledge and an appreciation of Metro operations?",
+        "ground_truth": [
+            "ee560"
+        ],
+        "choices": []
+    },
+    {
+        "id": "C1-3",
+        "cognitive_type": "knowledge_applying",
+        "category": "C1",
+        "index": "3",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "Who is doing research in both cloud computing and blockchain?",
+        "ground_truth": [
+            "Dr Zhe Peng",
+            " Prof. CAO Jiannong"
+        ],
+        "choices": []
+    },
+    {
+        "id": "C1-4",
+        "cognitive_type": "knowledge_applying",
+        "category": "C1",
+        "index": "4",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "Recommend me some courses which teach you how to program using java language.",
+        "ground_truth": [
+            "eie3320",
+            " comp2021"
+        ],
+        "choices": []
+    },
+    {
+        "id": "C1-5",
+        "cognitive_type": "knowledge_applying",
+        "category": "C1",
+        "index": "5",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "What courses help me know more about transactions in business?",
+        "ground_truth": [
+            "af3211",
+            " af4328",
+            " mm4411"
+        ],
+        "choices": []
+    },
+    {
+        "id": "C1-6",
+        "cognitive_type": "knowledge_applying",
+        "category": "C1",
+        "index": "6",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "I would like to discuss my interest in computer vision and 3D-construction, who are the professors that I can contact?",
+        "ground_truth": [
+            "Ir Prof. K.L. Yung",
+            " SUN Yuxiang"
+        ],
+        "choices": []
+    },
+    {
+        "id": "C1-7",
+        "cognitive_type": "knowledge_applying",
+        "category": "C1",
+        "index": "7",
+        "answer_type": "List",
+        "matrix_type": "HitRate",
+        "question": "I would like to discuss my interest in classic Chinese culture, who are the professors that I can contact?",
+        "ground_truth": [
+            "Professor CHU Hung-lam",
+            " HAN Xiaorong",
+            " Dr William Cheung Chi-kan"
+        ],
+        "choices": []
+    },
+    {
+        "id": "C2-1",
+        "cognitive_type": "knowledge_applying",
+        "category": "C2",
+        "index": "1",
+        "answer_type": "MC",
+        "matrix_type": "F1",
+        "question": "Which of the following are the courses which have level that less than 3, and teach the linear algebra?",
+        "ground_truth": [
+            "B",
+            "C"
+        ],
+        "choices": [
+            {
+                "text": "ama4433",
+                "is_correct": false
+            },
+            {
+                "text": "ama2707",
+                "is_correct": true
+            },
+            {
+                "text": "ama1110",
+                "is_correct": true
+            },
+            {
+                "text": "ama1155",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": "C2-2",
+        "cognitive_type": "knowledge_applying",
+        "category": "C2",
+        "index": "2",
+        "answer_type": "MC",
+        "matrix_type": "F1",
+        "question": "Which of the following courses do not require drawing/design using CAD?",
+        "ground_truth": [
+            "D"
+        ],
+        "choices": [
+            {
+                "text": "ee2101",
+                "is_correct": false
+            },
+            {
+                "text": "aae2101",
+                "is_correct": false
+            },
+            {
+                "text": "ic2105",
+                "is_correct": false
+            },
+            {
+                "text": "comp4423",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "id": "C2-3",
+        "cognitive_type": "knowledge_applying",
+        "category": "C2",
+        "index": "3",
+        "answer_type": "MC",
+        "matrix_type": "F1",
+        "question": "Which of the following professors can I contact if I would like to find a RA position about public health research?",
+        "ground_truth": [
+            "A",
+            "B"
+        ],
+        "choices": [
+            {
+                "text": "Dr Alex Wong Kin-yau",
+                "is_correct": true
+            },
+            {
+                "text": "Sr Prof. Charles Man Sing WONG",
+                "is_correct": true
+            },
+            {
+                "text": "Dr. Cao Jiannong",
+                "is_correct": false
+            },
+            {
+                "text": "Dr. Li Qing",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": "C3-1",
+        "cognitive_type": "knowledge_applying",
+        "category": "C3",
+        "index": "1",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What courses should I take if I want to be a data analyst in the future?",
+        "ground_truth": "ama3640, ama3654, ama4602, comp4433, comp4434",
+        "choices": []
+    },
+    {
+        "id": "C3-2",
+        "cognitive_type": "knowledge_applying",
+        "category": "C3",
+        "index": "2",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What courses should I take if I want to be a researcher and work in a professional lab about organic chemistry?",
+        "ground_truth": "abct2423, abct2704, abct2705, abct2742, abct2774",
+        "choices": []
+    },
+    {
+        "id": "C3-3",
+        "cognitive_type": "knowledge_applying",
+        "category": "C3",
+        "index": "3",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What courses should I take if I want to be a wine taster?",
+        "ground_truth": "htm1c07, htm4307, htm4354",
+        "choices": []
+    },
+    {
+        "id": "C3-4",
+        "cognitive_type": "knowledge_applying",
+        "category": "C3",
+        "index": "4",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What's the difference between comp2013 and comp3011?",
+        "ground_truth": "The main difference between the two courses is that COMP3011 is a more advanced course than COMP2013. COMP3011 focuses on algorithm design techniques and advanced algorithms for various data types, while COMP2013 introduces basic data structures and algorithms for solving computational problems. COMP3011 is a level 3 course, while COMP2013 is a level 2 course. COMP2013 also has some pre-requisites that COMP3011 does not have.",
+        "choices": []
+    },
+    {
+        "id": "C3-5",
+        "cognitive_type": "knowledge_applying",
+        "category": "C3",
+        "index": "5",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What's the difference between af3507 and af3513?",
+        "ground_truth": "The main difference between the two courses is that AF3507 is about the law governing companies in Hong Kong, while AF3513 is about the general business law in various settings. AF3507 covers topics such as incorporation, corporate governance, directors\u2019 duties, shareholders\u2019 rights, and winding up of companies. AF3513 covers topics such as contract law, tort law, agency law, partnership law, and intellectual property law. Both courses are level 3 courses with 3 credit value. They have similar learning outcomes, but AF3507 is more specific to the corporate context and AF3513 is more general to the business context.",
+        "choices": []
+    },
+    {
+        "id": "C3-6",
+        "cognitive_type": "knowledge_applying",
+        "category": "C3",
+        "index": "6",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What's the difference between Multivariate Statistical Methods and Modelling of epidemic and pandemic?",
+        "ground_truth": "The main difference between the two courses is that AMA466 is about multivariate statistical methods, while AMA4670 is about modelling of epidemic and pandemic. AMA466 covers topics such as multivariate normal distribution, principal component analysis, factor analysis, cluster analysis, discriminant analysis, and canonical correlation analysis. AMA4670 covers topics such as history of epidemic and pandemic, theory and methods to model the spread of diseases in populations, likelihood-based inference and iterated filtering. Both courses are level 4 courses with 3 credit value. They have different pre-requisites: AMA466 requires Applied Statistical Methods (AMA2631/AMA2631A) or equivalent, while AMA4670 requires Probability & Distributions (AMA2691) or equivalent and Multivariable Calculus (AMA2702) or equivalent. They also use different computer packages: AMA466 uses MINITAB, SPSS and SAS, while AMA4670 uses R.",
+        "choices": []
+    },
+    {
+        "id": "C3-7",
+        "cognitive_type": "knowledge_applying",
+        "category": "C3",
+        "index": "7",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What's the difference between these courses, Multivariate Statistical Methods and Modelling of epidemic and pandemic, in terms of the content they teach?",
+        "ground_truth": "AMA466 and AMA4670 are two courses that teach different aspects of statistics and modelling. AMA466 introduces multivariate statistical methods, which are useful for analyzing data with multiple variables, such as principal component analysis, factor analysis, cluster analysis, and so on. The course also teaches how to use computer packages such as MINITAB, SPSS and SAS for data analysis. AMA4670, on the other hand, deals with modelling of epidemic and pandemic, which are scenarios where a disease spreads rapidly and widely among a population. The course covers the history of epidemic and pandemic, the theory and methods to model the spread of diseases using differential equations, demographic noise and measuremental noise, likelihood-based inference and iterated filtering. The course also requires the use of the statistical software R for disease modelling.",
+        "choices": []
+    },
+    {
+        "id": "C3-8",
+        "cognitive_type": "knowledge_applying",
+        "category": "C3",
+        "index": "8",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "What's the difference between these courses, marketing strategy and marketing menagement, in terms of the content they teach?",
+        "ground_truth": "MM573 and MM576 are two courses that teach different aspects of marketing at a post-graduate level. MM573 focuses on marketing strategy, which is the process of developing appropriate marketing plans for dynamic market environments. The course covers topics such as situation analysis, segmentation, targeting, positioning, marketing mix, and evaluation. The course also develops students\u2019 thinking and discussion skills that are required for a holistic approach to real marketing problems. MM576 focuses on marketing management, which is the practice of applying marketing theory to real-world situations. The course covers topics such as customer relationship management, brand equity management, service marketing, digital marketing, and database marketing. The course also introduces students to a wide range of current topics and concepts that a marketing manager needs to understand in order to make effective decisions.",
+        "choices": []
+    },
+    {
+        "id": "D1-1",
+        "cognitive_type": "knowledge_creating",
+        "category": "D1",
+        "index": "1",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "There is a new course about International relationship and economics, aiming to examine the political, economic, and social interactions among states and other actors in the global system. Write me a course description with course code, creadit value, difficulty level and the objectives in the form like PolyU's courses.",
+        "ground_truth": "{ \u201ccourse_id\u201d: \u201cAPSS5xxx\u201d, \u201curl\u201d: \u201cxxx\u201d, \u201ccourse\u201d: { \u201cSubject Code\u201d: \u201cAPSS5xxx\u201d, \u201cSubject Title\u201d: \u201cInternational Relationship and Economics\u201d, \u201cCredit Value\u201d: \u201c3\u201d, \u201cLevel\u201d: \u201c5\u201d, \u201cPre-requisite/ Co-requisite/ Exclusion\u201d: \u201cNone\u201d, \u201cObjectives\u201d: \u201cThis course provides an overview of the theories and issues of international relationship and economics. The course examines the political, economic, and social interactions among states and other actors in the global system. The course also explores the concepts and tools of international economics, such as trade, finance, development, and globalization. The course aims to help students develop analytical skills and critical thinking to understand and evaluate the complex and dynamic phenomena of international relationship and economics.\u201d } }",
+        "choices": []
+    },
+    {
+        "id": "D1-2",
+        "cognitive_type": "knowledge_creating",
+        "category": "D1",
+        "index": "2",
+        "answer_type": "Sentence",
+        "matrix_type": "Similarity",
+        "question": "There is a new course about natural language process, aiming to introduce the fundamental concepts and techniques of natural language processing (NLP). Write me a course description with course code, creadit value, difficulty level and the objectives in the form like PolyU's courses.",
+        "ground_truth": "{ \u201ccourse_id\u201d: \u201cCOMP4xxx\u201d, \u201curl\u201d: \u201cxxx\u201d, \u201ccourse\u201d: { \u201cSubject Code\u201d: \u201cCOMP4xxx\u201d, \u201cSubject Title\u201d: \u201cIntroduction to Natural Language Processing\u201d, \u201cCredit Value\u201d: \u201c3\u201d, \u201cLevel\u201d: \u201c4\u201d, \u201cPre-requisite/ Co-requisite/ Exclusion\u201d: \u201cCOMP2011 Data Structure\u201d, \u201cObjectives\u201d: \u201cThis course aims to introduce the fundamental concepts and techniques of natural language processing (NLP), which is the study of how computers can understand and manipulate human languages. The course will cover topics such as word representation, syntax, semantics, pragmatics, text analysis, information extraction, machine translation, sentiment analysis, and dialogue systems. The course will also introduce some of the popular tools and frameworks for NLP, such as NLTK, spaCy, PyTorch, and TensorFlow. The course will combine lectures, readings, assignments, and projects to help students gain both theoretical and practical knowledge of NLP.\u201d } }",
+        "choices": []
+    }
+]
